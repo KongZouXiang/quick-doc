@@ -6,7 +6,7 @@ module.exports = {
   theme: "vdoing",
   title: "MyBatis-Plus",
   description: 'MyBatis-Plus 官方文档',
-  base: "/",
+  base: "/quick-doc",
   markdown: {
     lineNumbers: true
   },
