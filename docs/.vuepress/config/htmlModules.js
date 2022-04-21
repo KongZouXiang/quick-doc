@@ -53,7 +53,7 @@
 
 // 万维
 module.exports = {
-  sidebarT: `
+ /* sidebarT: `
     <a href="https://www.diboot.com/?from=mp" target="_blank">
       <img class="no-zoom" height="80" src="https://www.diboot.com/diboot_slogon.png">
     </a>
@@ -63,7 +63,7 @@ module.exports = {
     <a href="http://aizuda.com?from=MybatisPlus" target="_blank">
       <img class="no-zoom" height="80" src="/img/aizuda.png">
     </a>
-  `,
+  `,*/
   pageB: `
     <div class="wwads-cn wwads-horizontal" data-id="135" style="width:100%;max-height:90px;"></div>
   `,

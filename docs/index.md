@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.svg
-heroText: MyBatis-Plus
+heroText: Quick
 tagline: 🚀为简化开发而生
 actionText: 快速开始 →
 actionLink: /pages/24112f/
@@ -77,7 +77,7 @@ postList: none
 
 ```xml
 <dependency>
-    <groupId>com.baomidou</groupId>
+    <groupId>cn.baomidou</groupId>
     <artifactId>mybatis-plus</artifactId>
     <version>latest-version</version>
 </dependency>

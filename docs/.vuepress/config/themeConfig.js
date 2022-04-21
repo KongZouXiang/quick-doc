@@ -37,7 +37,7 @@ module.exports = {
       {
         iconClass: "icon-github",
         title: "GitHub",
-        link: "https://github.com/baomidou"
+        link: "https://github.com/KongZouXiang/quick"
       },
       {
         iconClass: "icon-gitee",
@@ -65,7 +65,7 @@ module.exports = {
       ' | ',
       '<a href="https://dyang.top/" target="_blank" style="font-weight:bold">D.Yang</a>',
       ' | ',
-      '<a href="https://blog.nancheung.com/" target="_blank" style="font-weight:bold">NanCheung</a>', 
+      '<a href="https://blog.nancheung.com/" target="_blank" style="font-weight:bold">NanCheung</a>',
       ' | ',
       '<a href="http://apidocs.cn/blog/" target="_blank" style="font-weight:bold">apidocsBlog</a>',
       '</p>'

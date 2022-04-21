@@ -6,7 +6,7 @@ module.exports = [
     {
       name: "keywords",
       content:
-        "mybatis,mybatisplus,mybatis-plus,mybatisplusdoc,mybatis-plus-doc,orm,framework,toolkit"
+        "quick,quick-boot,quickboot,quickdoc,quick-doc,orm,framework,toolkit"
     }
   ],
   ["meta", { name: "theme-color", content: "#11a8cd" }],
@@ -20,7 +20,7 @@ module.exports = [
   //   }
   // ],
   ["script", { async: true, src: "https://cdn.wwads.cn/js/makemoney.js" }],
-  ['script', {}, `
+/*  ['script', {}, `
     // 万维广告“禁止”广告拦截
     // function called if wwads is blocked
     // https://github.com/bytegravity/whitelist-wwads
@@ -65,5 +65,5 @@ module.exports = [
         }
       }, 3000);
     });
-  `]
+  `]*/
 ];
